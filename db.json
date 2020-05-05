@@ -1,1 +1,14 @@
-
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@exple.com"
+    }
+  ],
+  "candidates": {
+    "id": 1,
+    "name": "candidate1",
+    "email": "candidate1@gmail.com"
+  }
+}
