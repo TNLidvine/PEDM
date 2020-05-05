@@ -12,8 +12,10 @@
     }
   ],
   "candidates": [
-    "id": 1,
-    "name": "candidate1",
-    "email": "candidate1@gmail.com"
+    {
+      "id": 1,
+      "name": "candidate1",
+      "email": "candidate1@gmail.com"
+    }
   ]
 }
