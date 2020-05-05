@@ -4,11 +4,16 @@
       "id": 1,
       "name": "John Doe",
       "email": "john.doe@exple.com"
+    },
+    {
+      "id": 2,
+      "name": "Second",
+      "email": "sec@exple.com"
     }
   ],
-  "candidates": {
+  "candidates": [
     "id": 1,
     "name": "candidate1",
     "email": "candidate1@gmail.com"
-  }
+  ]
 }
